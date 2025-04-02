@@ -1,6 +1,19 @@
-requests==2.31.0
-PyGithub==2.1.1
+# API Clients
+PyGithub==1.58.2
+openai>=1.6.0
+
+# Data Processing
+# pandas==2.0.3  # Commented out due to NumPy compatibility issues
 python-dateutil==2.8.2
+
+# Google API
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+google-api-python-client==2.95.0
+
+# Environment Variables
 python-dotenv==1.0.0
-openai==1.6.1
-pandas==2.0.3  # Optional, for data analysis features 
+
+# HTTP Requests
+requests==2.31.0 

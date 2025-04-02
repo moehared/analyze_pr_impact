@@ -1,7 +1,3 @@
-# GitHub PR Impact Analyzer
-
-A comprehensive tool that analyzes your GitHub Pull Requests and creates impact statements and brag documents for performance reviews. This tool helps you showcase your contributions by generating detailed impact analyses for PRs you've authored and reviewed.
-
 ## Features
 
 - Fetch PRs you've authored and reviewed from GitHub repositories
@@ -18,11 +14,9 @@ A comprehensive tool that analyzes your GitHub Pull Requests and creates impact 
 
 ## Installation
 
-Choose one of the following setup methods (the setup script is completely optional):
+Choose one of the following setup methods:
 
 ### Option 1: Automated Setup (macOS/Linux)
-
-If you're on macOS or Linux, you can use the provided setup script:
 
 ```bash
 git clone https://github.com/moehared/analyze_pr_impact.git
