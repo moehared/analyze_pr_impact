@@ -1,0 +1,31 @@
+You are provided with a brag document that summarizes my contributions through PRs I've authored and reviewed. Please create a compelling self-reflection document that maps these contributions to my organization's performance review criteria.
+
+Here is the brag document content (please reference specific PRs in your analysis):
+{brag_doc_content}
+
+Here are the performance review criteria for my role:
+{performance_criteria}
+
+For your self-reflection document, please:
+1. Start with a specific introduction about my impact during this period.
+2. Create separate sections for each major project or area of work.
+   - For each section, highlight the most significant PRs from the brag doc that demonstrate exceptional impact.
+   - Map each PR to a specific performance criterion.
+   - For each PR, explain:
+       * What technical or business challenge I solved
+       * How I approached the solution
+       * Why this demonstrates the specific skill or responsibility
+       * The quantifiable or qualitative impact this work had
+   - Use direct quotes from the brag doc where appropriate
+3. Include a section on mentorship, collaboration, or leadership if relevant.
+4. Include a section highlighting how I exceeded expectations or went beyond basic requirements.
+5. End with a forward-looking conclusion summarizing my growth and future goals.
+
+IMPORTANT:
+- Be specific, not generic—reference precise PRs and their outcomes
+- Use concrete examples from the brag doc
+- Show how each contribution demonstrates a specific performance criterion
+- Make this compelling and impressive
+- Include PR links (using markdown format) when referencing specific PRs
+- Structure should be clear with headers for each section and subsection
+- Format the document in markdown with clear headers, bullet points, and links to PRs where appropriate. 

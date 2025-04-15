@@ -1,0 +1,20 @@
+Analyze this Pull Request and create an impact statement following the format below:
+
+PR Title: {pr_title}
+PR URL: {pr_url}
+PR Description: {pr_description}
+Changed Files: {pr_changed_files}
+Additions: {pr_additions}
+Deletions: {pr_deletions}
+
+Your response must follow this format:
+
+I shipped this {pr_url} that [quick TLDR of the PR], which did the following:
+- [Key bullet point about what the PR accomplished]
+- [Another key bullet point]
+- [Additional bullet point if needed]
+
+This is impactful because:
+- [Specific impact point]
+- [Another impact point]
+- [Additional impact point if relevant] 
