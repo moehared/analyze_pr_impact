@@ -21,7 +21,6 @@ Choose one of the following setup methods:
 ```bash
 git clone https://github.com/moehared/analyze_pr_impact.git
 cd analyze_pr_impact
-cd "pr analyses"
 chmod +x setup.sh
 ./setup.sh
 ```
